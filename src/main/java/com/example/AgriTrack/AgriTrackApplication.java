@@ -12,7 +12,7 @@ public class AgriTrackApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AgriTrackApplication.class, args);
-		System.out.println("Hello everone");
+		System.out.println("Hello everyone Hell0");
 	}
 
 }
